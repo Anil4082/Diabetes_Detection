@@ -46,8 +46,19 @@ To run the code, follow these steps:
 
 ## Results
 
-[Include any results, plots, or evaluation metrics here]
+
+![Screenshot 2024-08-06 011649](https://github.com/user-attachments/assets/43f40831-e391-4e70-8051-e8c3067bbfc4)
+![Screenshot 2024-08-06 011920](https://github.com/user-attachments/assets/0df7164b-d214-47b5-ac8c-604f8aacdf91)
+
 ![Screenshot 2024-08-06 011023](https://github.com/user-attachments/assets/5587d44c-b142-4bd8-830f-17e5055e67c8)
+![Screenshot 2024-08-06 012017](https://github.com/user-attachments/assets/9253a77d-3706-410e-beb7-cbaaac93c429)
+![Screenshot 2024-08-06 012048](https://github.com/user-attachments/assets/9d1c41d9-62ed-4a4a-980d-fcda3bc1355d)
+![Screenshot 2024-08-06 012121](https://github.com/user-attachments/assets/c34f8434-0e90-4d9b-b0c9-b3572d819cee)
+![Screenshot 2024-08-06 012146](https://github.com/user-attachments/assets/be873243-3613-48af-8d1c-b7f937308299)
+![Screenshot 2024-08-06 012213](https://github.com/user-attachments/assets/ed241e6a-e388-4da3-859b-86a55f3f72e8)
+![Screenshot 2024-08-06 012303](https://github.com/user-attachments/assets/14e0dbed-98a0-46b0-8444-7b6dd857402e)
+![Screenshot 2024-08-06 012338](https://github.com/user-attachments/assets/f82eff40-af36-4099-94ef-308aacdf4302)
+
 
 ## Contributing
 
