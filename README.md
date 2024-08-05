@@ -47,6 +47,7 @@ To run the code, follow these steps:
 ## Results
 
 [Include any results, plots, or evaluation metrics here]
+![Screenshot 2024-08-06 011023](https://github.com/user-attachments/assets/5587d44c-b142-4bd8-830f-17e5055e67c8)
 
 ## Contributing
 
