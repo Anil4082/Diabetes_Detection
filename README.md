@@ -29,7 +29,7 @@ To run the code, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/uvsinn/Diabetes-detection.git
+    git clone https://github.com/Anil4082/Diabetes_Detection
     ```
 
 2. Install the required dependencies:
