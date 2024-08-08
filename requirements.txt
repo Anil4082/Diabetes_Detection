@@ -3,5 +3,3 @@ pandas
 sklearn.preprocessing
 sklearn.model_selection
 sklearn.metrics
-scikit-learn
-streamlit
