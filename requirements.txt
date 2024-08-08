@@ -1,6 +1,4 @@
 numpy
 pandas
-sklearn.preprocessing
-
-sklearn.metrics
 scikit-learn
+
