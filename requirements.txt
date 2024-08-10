@@ -1,5 +1,5 @@
 numpy
 pandas
 sklearn.preprocessing
-sklearn.model_selection
+scikit-learn
 sklearn.metrics
